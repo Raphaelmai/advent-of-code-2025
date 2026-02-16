@@ -1,0 +1,2 @@
+Score P1: 945
+Temps d'exécution : 0.000 secondes
